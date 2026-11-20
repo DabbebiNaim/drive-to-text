@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pypdf
+Pillow
+pytesseract
+google-api-python-client
+python-dotenv
+pytest
+httpx
